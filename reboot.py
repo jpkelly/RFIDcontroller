@@ -2,7 +2,7 @@
 
 import os
 import socket
-UDP_IP = "10.39.54.191"
+UDP_IP = "x.x.x.x" # Local IP address
 UDP_PORT = 5005
 
 sock = socket.socket(socket.AF_INET, # Internet
